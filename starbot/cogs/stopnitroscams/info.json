@@ -1,0 +1,13 @@
+{
+  "name": "StopNitroScams",
+  "author": "Rosie",
+  "short": "Deletes messages and bans users trying to scam people.",
+  "description": "Deletes messages and bans users trying to scam people.",
+  "tags": [
+    "administration"
+  ],
+  "end_user_data_statement": "This cog doesn't store anything at all.",
+  "requirements": [
+    "https://github.com/LeDeathAmongst/Star-Utils"
+  ]
+}

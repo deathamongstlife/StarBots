@@ -1,0 +1,21 @@
+{
+  "author": "Rosie",
+  "description": "cancel",
+  "install_msg": "cancel",
+  "short": "cancel",
+  "permissions": [
+    "read_messages",
+    "add_reactions"
+  ],
+  "requirements": [
+    "git+https://github.com/LeDeathAmongst/Star-Utils.git",
+    "https://github.com/LeDeathAmongst/Star-Utils"
+  ],
+  "end_user_data_statement": "",
+  "tags": [
+    "cancel"
+  ],
+  "min_bot_version": "3.5.0",
+  "name": "Aiemote",
+  "hidden": false
+}

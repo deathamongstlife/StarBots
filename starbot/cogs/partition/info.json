@@ -1,0 +1,10 @@
+{
+  "author": "Rosie",
+  "description": "Partitions users into teams",
+  "name": "Partition",
+  "short": "Partition Teams",
+  "ready": true,
+  "requirements": [
+    "https://github.com/LeDeathAmongst/Star-Utils"
+  ]
+}

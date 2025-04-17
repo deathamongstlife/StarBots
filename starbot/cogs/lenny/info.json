@@ -1,0 +1,20 @@
+{
+  "author": "Rosie",
+  "install_msg": "ᕮ⊜ᴥ⊜ᕭ",
+  "name": "Lenny",
+  "short": "( ͡° ͜ʖ ͡°)",
+  "description": "乁(-ロ-)ㄏ",
+  "requirements": [
+    "https://github.com/LeDeathAmongst/Star-Utils"
+  ],
+  "tags": [
+    "lenny",
+    "emoji",
+    "donger",
+    "kaomoji",
+    "fun"
+  ],
+  "hidden": false,
+  "disabled": false,
+  "min_bot_version": "3.5.0"
+}

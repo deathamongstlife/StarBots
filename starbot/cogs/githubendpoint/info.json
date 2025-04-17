@@ -1,0 +1,12 @@
+{
+  "name": "GithubEndpoint",
+  "author": "Rosie",
+  "short": "TODO",
+  "description": "TODO",
+  "requirements": [
+    "https://github.com/LeDeathAmongst/Star-Utils"
+  ],
+  "tags": [
+    "github"
+  ]
+}
