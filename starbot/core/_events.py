@@ -165,6 +165,7 @@ def init_events(bot, cli_flags):
 
         app_info = await bot.application_info()
         owner_names = app_info.owner.name
+        developer = "Rosie"
 
         table_general_info = Table(show_edge=False, show_header=False, box=box.MINIMAL)
         table_general_info.add_row("Prefixes", ", ".join(prefixes))
@@ -175,7 +176,7 @@ def init_events(bot, cli_flags):
 
         table_bot_info = Table(show_edge=False, show_header=False, box=box.MINIMAL)
         table_bot_info.add_row("Owner", owner_names)
-        table_bot_info.add_row("Developer", owner_names)
+        table_bot_info.add_row("Developer", developer)
         table_bot_info.add_row("Created By", red_creator)
         table_bot_info.add_row("Hosted On", host_company)
 
